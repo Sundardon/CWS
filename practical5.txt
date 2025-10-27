@@ -1,0 +1,37 @@
+Debugging is the identification and resolution of existing and potential issues in software or
+hardware. Examples of these issues include faulty code (such as source code with logic errors) and
+manufacturing defects. The debugging process typically involves three steps:
+1. Identifying bugs : During the first stage of the debugging process, end users, quality
+assurance (QA) testers, and developers report bugs. They may find these problems through
+testing processes,reviewing lines of code, orsimply by using the
+software or device.
+2.	Analyzing bugs: At this phase, the reported bugs from step one will be evaluated. Important
+elements to consider include how the bug impacts the functionality and which parts of the
+softwareor hardware will be affected by it. The developers then prioritize bug fixes and create
+an action planand timeline for fixing.
+3.	Fixing bugs and preparing for the future: Once the bugs have been fixed, developers and QA
+testers ensure the software will continue to work properly by running tests. They also plan
+future teststo more easily identify recurring bugs.
+GDB stands for GNU Project Debugger and is a powerful debugging tool for C(along with other
+languages like C++).It helps you to poke around inside your C programs while they are
+executing and also allows you to see what exactly happens when your program crashes. GDB
+operates on executable files which are binary files produced by compilation process.
+For demo purpose, below example is executed on a Linux machine with below specs.
+
+
+Steps for implementation:
+1.Go to your Linux command prompt and type “gdb”.
+2. Below is a program that shows undefined behavior when compiled using C99.
+3. Now compile the code. (here test.c). g flag
+means you can see the proper names of variables and functions in your stack frames, get
+line numbers and see the source as you step around in the executable.
+ 4. Run gdb with the generated executable.
+5. Now, type “l” at gdb prompt to display the code.
+6. Let’s introduce a break point, say line 5.
+7. In order to see the breakpoints, type “info b”.
+8. Having done above, let’s say you changed your mind and you want to revert.
+Type “disable b”.
+9. To re-enable the recent disabled breakpoint. Type “enable b”.
+10. Run the code by typing “run or r”.If you haven’t set any breakpoints, run command will
+simply execute the full program.
+
