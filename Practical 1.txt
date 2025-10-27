@@ -1,0 +1,28 @@
+System Unit :
+
+•	System unit—The main computer cabinet housing containing the primary components of the system. This includes the main logic board (system board or motherboard), disk drive(s), switching power supply, and the interconnecting wires and cables.
+•	Keyboard—The most familiar computer input device, used to introduce characters and commands into the system. This is accomplished by incorporating a standard typewriter key layout with the addition of other specialized control and function keys.
+•	Mouse—A popular input device used with graphical user interfaces to point to, select, or activate images on the video monitor. By rolling the mouse along a surface, the user can cause a cursor on the display to move in a corresponding manner.
+
+•	Video monitor—A visual output device capable of displaying characters and graphics on screen. Also, a name for a CRT computer display.
+•	Character printer—A hard copy output device that applies data to paper. Any printer that prints one character at a time. Normally, a dot-matrix, ink-jet, or a laser printer.
+•	Speakers—Audio output devices used to deliver voice, music, and coded messages.
+•	System board—The main component of a personal computer. It contains the major structures that make up a computer system.
+•	Power supply—The component in the system that converts the AC voltage from the commercial power outlet to the DC voltages required by the computer circuitry.
+•	Disk drives—The system’s mass storage devices that hold data for an extended time, even when the power is removed from the system. Disk drives include floppy drives, hard drives, and CD-ROM drives.
+•	Adapter cards—Interface cards used to enhance the basic system with additional functions. Examples of common adapter cards include video display adapters, modems, and Local Area Network cards.
+•	Signal cables—connecting cables, typically configured in a flat ribbon format, that pass control signals and data between system components such as the disk drives and the system board. Two common form factors for desktop and tower computers currently exist. These form factors provide specifications for system board and adapter card sizes, mounting hole patterns for system boards and power supplies, microprocessor placement, and airflow. The ATX specification includes provisions for a software switch that enables users to turn off the system’s power supply through software.
+SYSTEM BOARDS
+The system board is the centre of the PC-compatible microcomputer system. It contains the circuitry that determines the computing power and speed of the entire system. In particular, it contains the microprocessor and control devices that form the brains of the system. System boards are also referred to as motherboards and as planar boards. A typical system board layout is depicted in Figure 1.4.
+•	Microprocessor/CPU—The brains of the system. This component performs mathematical
+•	and logical computations at incredible speeds.
+•	Primary Memory—The system’s primary memory elements.
+1)	RAM—Random Access Memory (RAM) is quick enough to operate directly
+with the microprocessor and can be read from and written to as often as desired. RAM is a volatile type of memory—its contents disappear when power is removed from the memory.
+2)	ROM—Read-Only Memory (ROM) contains the computer’s permanent startup programs. ROM is non volatile - its contents remain with or without power being applied.
+3)	Cache memory—An area of special high-speed RAM reserved for improving system performance by holding information that the microprocessor is likely to use. Blocks of often used data are copied into the cache area to permit faster access times.
+MICROPROCESSORS
+The microprocessor is the major component of any system board. It can be thought of as the brains of the computer system because it reads, interprets, and executes software instructions, and it also carries out arithmetic and logical operations for the system. The original PC and PC-XT computers were based on the 8/16-bit 8088 microprocessor from Intel.
+POWER SUPPLIES
+The system’s power supply unit provides electrical power for every component inside the system unit. In older AT-style systems, it also passed the commercial alternating current (AC) through the On/Off switch to the display monitor. The power supply delivers power to the system board and its expansion slots through the system board power connectors. The ATX system board connector is a 20-pin keyed connector.
+Note: The power supply voltage switch is a small switch located on the back of the power supply. This small switch is used to set the input voltage to the power supply to either 110v/115v or 220v/230v. Setting the power supply voltage switch to the incorrect input voltage could damage the power supply and possibly other parts of your computer.
