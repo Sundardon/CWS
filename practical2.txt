@@ -1,0 +1,13 @@
+1]	cal: Displays calendar.
+2]	cat: It is a multi-function command.
+3]	cd: Changes the current working directory 4]. chgrp :Changes group.
+5]. chmod: Changes permission for a file or directory. 6] date: Displays the current date.
+7]. df :Checks the disk space in the system. 8]find: Finds files for a particular search.
+9]. gpasswd: Transfers group membership to another user.
+10] grep: Filters lines of text containing a certain string 11]history: Displays older commands from the shell command history.
+12)ls: Lists all the files of a directory.
+13]	man: Displays the manual page for the specified command.
+14]	mkdir: Creates directory.
+15]	more: Displays one output screen at a time. 16]mv: Renames directories or files.
+17] pwd :Display the current working directory location. 18]PS1: Change the prompt name in the terminal.
+19]rm:Removes a file. 20]rmdir: Removes a directory.
